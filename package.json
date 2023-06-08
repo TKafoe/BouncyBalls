@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "live-server": "^1.2.2",
-    "paper": "^0.12.17"
-  },
-  "scripts": {
-    "server": "live-server"
-  }
-}
