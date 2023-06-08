@@ -1,3 +1,5 @@
+import * as paper from 'paper';
+
 class RotatingRectangle {
   ABSORPTION = 0.2;
 
