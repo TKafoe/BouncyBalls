@@ -1,7 +1,7 @@
 import * as paper from 'paper';
 
 class RotatingRectangle {
-  ABSORPTION = 0.2;
+  ABSORPTION = 0.7;
 
   simulateGravity(event) {
     this.v += this.a * (event.delta * 10);
