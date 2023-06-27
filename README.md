@@ -9,6 +9,6 @@ This is a proof of concept idea to use Paper.js for simple physics animations.
 
 ## How to install
 - Install all packages using `yarn install`.
-- Run the command `npm run build`. This will create the folder `dist`.
+- Run the command `yarn build`. This will create the folder `dist`.
 - Open the file `./dist/index.html` to see the animation.
 
